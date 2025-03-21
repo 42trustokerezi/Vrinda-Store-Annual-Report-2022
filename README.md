@@ -18,3 +18,10 @@ The owner of Vrinda store wanted to improve sales for 2023 & 2024. We decided to
 -	Highest selling category?
 -	Dashboard Interaction <a href=https://github.com/42trustokerezi/Vrinda-Store-Annual-Report-2022/blob/main/Screenshot%202025-03-21%20at%2009.49.49.png>View Dashboard</a>
 
+## Process
+-	Removed Duplicates to ensure accurate results during analysis
+-	Made sure data is consistent with respect to data type, data format and values used.
+-	Created pivot tables to analyse data according to KPI
+-	Developed dashboard using charts generated from the pivot tables
+-	Applied slicer to make the charts dynamic
+
