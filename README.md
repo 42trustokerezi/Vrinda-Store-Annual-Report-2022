@@ -25,3 +25,5 @@ The owner of Vrinda store wanted to improve sales for 2023 & 2024. We decided to
 -	Developed dashboard using charts generated from the pivot tables
 -	Applied slicer to make the charts dynamic
 
+## Dashboard
+<img width="1110" alt="Screenshot 2025-03-21 at 09 49 49" src="https://github.com/user-attachments/assets/f2beefda-0ada-4f9c-941a-57a54164ffe4" />
