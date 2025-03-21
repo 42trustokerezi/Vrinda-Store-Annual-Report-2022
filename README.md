@@ -7,4 +7,14 @@ The owner of Vrinda store wanted to improve sales for 2023 & 2024. We decided to
 ## Dataset used
 <a href=https://github.com/42trustokerezi/Vrinda-Store-Annual-Report-2022/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx>Vrinda Store Data </a>
 
+## Key Performance Indicators (KPIs)
+-	Compare the sales and orders using single chart
+-	Which month got the highest sales and orders?
+-	Who purchased more - men or women in 2022?
+-	What different order status in 2022?
+-	List top 10 states contributing to the sales?
+-	Relationship between age and gender based on number
+-	Which channel is contributing to maximum sales?
+-	Highest selling category?
+-	Dashboard Interaction <a href=https://github.com/42trustokerezi/Vrinda-Store-Annual-Report-2022/blob/main/Screenshot%202025-03-21%20at%2009.49.49.png>View Dashboard</a>
 
