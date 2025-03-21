@@ -27,3 +27,14 @@ The owner of Vrinda store wanted to improve sales for 2023 & 2024. We decided to
 
 ## Dashboard
 <img width="1110" alt="Screenshot 2025-03-21 at 09 49 49" src="https://github.com/user-attachments/assets/f2beefda-0ada-4f9c-941a-57a54164ffe4" />
+
+## Project Insight
+-	Women customers are more likely to buy products compared to men (~64%)
+-	Most sales occurred during the months of January, Febuary, andMarch.
+-	Most purchases are made from the states of Maharashtra, Karnataka and Uttar Pradesh.
+-	The maximum number of customer orders are from the following channels; Amazon, Flipkart and Myntra
+
+## Final Conclusion
+To boost Vrinda Store’s sales, we should focus on women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh. These women are key buyers for home and lifestyle products. The plan includes digital ads and special offers designed to attract them.
+
+
